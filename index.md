@@ -9,7 +9,16 @@ Worried about CS50 assignment? Check out [our pset1 help event](https://www.face
 Paranoid you will miss an announcement? If you sign up at [this Google form](https://forms.gle/h6M4Vuy9KkZrUSsd6), you'll be sure to get all the mails :)
 
 ## Assignments
+We have put 9001% effort to ensure that these are lit AF.
+
 1. Snek (Python)
 2. Yoda Chat (Javascript)
 3. :O (React)
 4. HUDS mash (Django)
+
+## Events
+Come!
+
+1. Virtual Escape Room, TBD
+2. Game Night, TBD
+3. Midpoint Chat, TBD

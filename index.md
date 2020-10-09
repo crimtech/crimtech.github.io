@@ -1,8 +1,12 @@
+<script>
+    next_week = "Guest talk?"
+</script>
+<!-- easter egg: chocolate -->
 # Crimson Tech Comp
 
 Welcome to the Tech Comp! We are Rick Xu and Zuzanna Szkoczylas, your comp directors. We will put Comp Information here!
 
-We hope to see you at the **Tech-Design-Multi Open House** on **9/6 at 3pm** at [this link](https://harvard.zoom.us/j/96755703644). First comp meeting is on **9/12 at 2pm** at [this Zoom link](https://harvard.zoom.us/j/97759502957?pwd=eDBkK0lZY2tWV3JUVlVWUzJ4Q2FDdz09).
+Comp meetings have been going on for a while. Hope you are still doing well :)
 
 Worried about CS50 assignment? Check out **[our pset1 help event](https://www.facebook.com/events/2386984268262714/)**.
 
@@ -13,12 +17,8 @@ We have put 9001% effort to ensure that these are lit AF.
 
 1. Snek (Python)
 2. Yoda Chat (Javascript)
-3. :O (React)
-4. HUDS mash (Django)
+3. Reactions (React)
+4. Deep Dive (Crimson code base)
 
 ## Events
-Come!
-
-1. Virtual Escape Room, TBD
-2. Game Night, TBD
-3. Midpoint Chat, TBD
+Announced later!
